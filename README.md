@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Blog App**
+- 🔭 I’m currently working on **TimeCue App**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**
 
